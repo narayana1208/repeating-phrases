@@ -27,6 +27,8 @@ if you want to make a difference in the life of a child – become a teacher. Yo
 
 "step in winning the future is" was repeated three times.
 The listing of the steps was not very clear in the speech.
+Fortunately, this speech was given before Charlie Sheen made
+"winning" such a popular word.
 
 1. The first step in winning the future is encouraging American innovation.
 2. The third step in winning the future is rebuilding America. 
