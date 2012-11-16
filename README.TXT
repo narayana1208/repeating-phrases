@@ -1,9 +1,8 @@
 This experiment uses enhanced suffix arrays to compute all the repeated
 phrases a speech. The 2011 State of the Union Address was used as the text.
 
-Here are the longest 
-phrases that are repeated. Length is measured in terms
-of the number of words:
+Here are the longest phrases that are repeated. Length is measured in 
+terms of the number of words:
 
 repeats length          phrase
 --------------------------------------------------------------------
@@ -32,7 +31,8 @@ Fortunately, this speech was given before Charlie Sheen made
 
 1. The first step in winning the future is encouraging American innovation.
 2. The third step in winning the future is rebuilding America. 
-3. Now, the final step – a critical step – in winning the future is to make sure we aren't buried under a mountain of debt.
+3. Now, the final step – a critical step – in winning the future is to make sure 
+we aren't buried under a mountain of debt.
 
 This looks kind of bungled. There is no second step in the transcript as far as I can tell.
 I hope the transcripts are off and that the speech was better.
